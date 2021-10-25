@@ -106,6 +106,8 @@ https://soundcloud.com/zmf876ofoicg/sets/vctkwaveglow?si=516812e51da34e3c81303a3
 
 VCTK + WaveFlow
 
+https://soundcloud.com/zmf876ofoicg/sets/vctk-waveflow?si=516812e51da34e3c81303a3e67959864
+
 #### Code sources
 
 MelGAN (unofficial implementation): https://github.com/kan-bayashi/ParallelWaveGAN
